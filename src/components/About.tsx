@@ -98,7 +98,7 @@ const About = () => {
               <div className="relative rounded-3xl overflow-hidden border-8 border-white shadow-2xl max-w-md mx-auto aspect-[3/4]">
                 <Avatar className="h-full w-full rounded-none">
                   <AvatarImage 
-                    src="Screenshot 2025-05-01 at 12.47.23 AM.png" 
+                    src="https://i.ibb.co/qMFRcgd1/Screenshot-2025-05-01-at-12-47-23-AM.png" 
                     alt="Deva Saikiran" 
                     className="h-full w-full object-cover"
                   />
