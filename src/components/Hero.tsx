@@ -114,7 +114,7 @@ const Hero = () => {
               <div className="h-80 w-80 overflow-hidden rounded-full border-4 border-primary/20 shadow-xl">
                 <Avatar className="h-full w-full">
                   <AvatarImage 
-                    src="Screenshot 2025-05-01 at 12.45.38 AM.png" 
+                    src="https://i.ibb.co/5hw7K8bx/Screenshot-2025-05-01-at-12-45-38-AM.png" 
                     alt="Deva Saikiran" 
                     className="h-full w-full object-cover"
                   />
